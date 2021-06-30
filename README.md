@@ -102,88 +102,26 @@ Python
 README.md
 ```
 
----------
-
-```markdown
-- __CursoPOOUber__
-   - __JS__
-     - [Account.js](JS/Account.js)
-     - [Car.js](JS/Car.js)
-     - [Payment.js](JS/Payment.js)
-     - [Route.js](JS/Route.js)
-     - [UberBlack.js](JS/UberBlack.js)
-     - [UberPool.js](JS/UberPool.js)
-     - [UberVan.js](JS/UberVan.js)
-     - [UberX.js](JS/UberX.js)
-     - [index.html](JS/index.html)
-     - [index.js](JS/index.js)
-   - __Java__
-     - [Account.java](Java/Account.java)
-     - [Car.java](Java/Car.java)
-     - [Main.java](Java/Main.java)
-     - [Payment.java](Java/Payment.java)
-     - [Route.java](Java/Route.java)
-     - [UberBlack.java](Java/UberBlack.java)
-     - [UberPool.java](Java/UberPool.java)
-     - [UberVan.java](Java/UberVan.java)
-     - [UverX.java](Java/UverX.java)
-   - __PHP__
-     - [Route.php](PHP/Route.php)
-     - [account.php](PHP/account.php)
-     - [car.php](PHP/car.php)
-     - [index.php](PHP/index.php)
-     - [payment.php](PHP/payment.php)
-     - [uberBlack.php](PHP/uberBlack.php)
-     - [uberPool.php](PHP/uberPool.php)
-     - [uberVan.php](PHP/uberVan.php)
-     - [uberX.php](PHP/uberX.php)
-   - __Python__
-     - [account.py](Python/account.py)
-     - [car.py](Python/car.py)
-     - [main.py](Python/main.py)
-     - [payment.py](Python/payment.py)
-     - [route.py](Python/route.py)
-     - [uberBlack.py](Python/uberBlack.py)
-     - [uberPool.py](Python/uberPool.py)
-     - [uberVan.py](Python/uberVan.py)
-     - [uberX.py](Python/uberX.py)
-   - [README.md](README.md)
-   - [list.md](list.md)
-```
-
 <!-- Topics reviewed -->
 ## Topics reviewed
 
-The topics seen are about the use of command lines related to git and github.
+The topics seen are about the analysis of the uber application, being separated in a modular way to have an understanding of object-oriented programming.
 From a terminal, inside the cloned folder, you can see the commits path
-
-* Inside the directory type:
-  ```sh
-  $ git log
-  ```
-
-You can see the path in commits made
 
 ### Topics
 
-- How to commit.
-- Stagin files.
-- Analyze changes in files.
-- Work cycle in git.
-- Use of branch and merges.
-- "Go back in time" using `rest` and `checkout`.
-- Basic workflow with a repository using `git clone`, `git push`, `git fetch`, `git remote` and `git pull`.
-- Introduction to branches with `git branch`.
-- Merge of branches with `git merge`.
-- Using github with commands such as `git remote add origin url`, `git remote`, `git remote -v` and `git pull origin master`.
-- Public keys and private keys and their configuration.
-- Tags and versions on github with `git tag`.
-- Branches and merges with `git branch name-of-the-branch`, `git checkout -b name-of-the-branch` and `git push origin name-of-the-branch`.
-- Make a pull request.
-- Ignore files with .gitignore.
-- README.md
-- Git rebase, git statsh, git clean, git cherry-pick, git amend.
-- Git grep
+- Object Oriented Programming.
+- The four pilars of the OOP:
+- Encapsulation.
+- Abstraction.
+- Inheritance.
+- Polymorphism.
+- The four elements that make up the OOP paradigm:
+- Classes.
+- Properties.
+- Methods.
+- Objects.
+- UML: Unified Modeling Language.
 
 
 
